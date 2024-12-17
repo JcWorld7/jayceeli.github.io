@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 李志飞
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Zhifei Li (Jaycee)
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhifei
+last_name: Li
 
 # Status emoji
 status:
