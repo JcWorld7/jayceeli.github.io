@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhifei Li
+title: 李志飞
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
