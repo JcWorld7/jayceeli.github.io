@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhifei Li (Jaycee)
+title: Zhifei Li
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
