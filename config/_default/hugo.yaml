@@ -54,3 +54,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  status_message: "🚧 This website is currently under construction. 🚧"

@@ -36,8 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Zhifei(Jaycee) Li"
-      params:
-  status_message: "🚧 This website is currently under construction. 🚧"
+      
 
 # Site footer
 footer:
