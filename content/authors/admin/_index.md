@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Jaycee is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jaycee is a PhD student in Statistics and Educational Measurement at The University of Iowa. His research interests include Natural Language Processing (NLP), data processing, and programmable matter. He explores the impact of text preprocessing techniques on NLP classification models and has trained models using Long Short-Term Memory (LSTM) networks. By leveraging LSTM's capability to capture and retain sequential patterns and dependencies within textual data, his work aims to enhance the effectiveness of NLP models.
