@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhifei Li (Jaycee)
+title: Zhifei(Jaycee) Li
 
 # Full name (for SEO)
 first_name: Zhifei
