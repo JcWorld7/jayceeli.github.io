@@ -9,6 +9,10 @@ last_name: Li
 # Status emoji
 status:
   icon: ☕️
+# Notes
+status:
+  icon: 🛠️
+  message: This website is currently under construction.
 
 # Is this the primary user of the site?
 superuser: true
