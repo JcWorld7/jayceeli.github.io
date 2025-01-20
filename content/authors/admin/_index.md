@@ -50,31 +50,31 @@ interests:
 
 education:
   - area: PhD Statistics and Educational Measurement
-    institution: The University of Iowa
-    date_start: 2016-09-01
+    institution: The University of Iowa (USA)
+    date_start: 2023-09-01
     date_end: 2028-05-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Educational Technology
+    institution: The Johns Hopkins University (USA)
+    date_start: 2021-08-29
+    date_end: 2022-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.97/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Management
+    institution: Dongbei University of Finance and Economics (China)
+    date_start: 2011-09-01
+    date_end: 2015-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.57/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
