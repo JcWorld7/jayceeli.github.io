@@ -46,7 +46,7 @@ profiles:
 interests:
   - Natural Language Processing
   - Data Processing
-  - Transformers
+  - Generative Transformers
 
 education:
   - area: PhD Statistics and Educational Measurement
