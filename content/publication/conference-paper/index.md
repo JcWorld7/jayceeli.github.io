@@ -6,14 +6,15 @@ title: 'The Effect of Different Text Processing Techniques on Text Classificatio
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Sarah Osaro
+  - Ariel Aloe
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +27,7 @@ publication_types: ['article-journal']
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: Under Review #In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
 abstract: |
