@@ -1,15 +1,15 @@
 ---
 title: Presentation
 
-event: .
+event: IRT
 event_url: https://example.org
 
 location: UIowa
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 240 S Madison St
+  city: Iowa City
+  region: IA
+  postcode: '52242'
   country: United States
 
 summary: Integrating Item Response Theory with Large Language Models to Improve the Measurement Quality of Automated Text-Based Assessments.
@@ -18,7 +18,7 @@ abstract: 'Large language models (LLMs) are increasingly used for text classific
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date_end: '2025-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

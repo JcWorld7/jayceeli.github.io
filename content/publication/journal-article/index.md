@@ -1,12 +1,14 @@
 ---
-title: "An example journal article"
+title: "Is It Feasible to Fine-Tune Pretrained Extractive Language Models for PICO Extraction with Limited Data? (in progress)"
 authors:
 - admin
-- Robert Ford
+- Zhu Li
+- Ariel Aloe
+- Kishlay Jha
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,13 +23,13 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: PICO extraction is an essential task for understanding the rapidly expanding research literature. This study suggests methods to fine-tune pretrained extractive language models to automatically extract structured PICO (Population, Intervention, Comparison, Outcome), Sample Size, Design Description, and Statistics Analysis summaries from the methods and results sections of research articles. Using case examples in school mental health, we aim to evaluate how well such a model performs when fine-tuned on a limited, manually annotated dataset with lightweight fine-tuning techniques, such as training hyperparameter setups and discriminative adapters. Additionally, we compare the performance of fine-tuning different pre-trained models on PICO extraction tasks.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study suggests methods to fine-tune pretrained extractive language models to automatically extract structured PICO (Population, Intervention, Comparison, Outcome), Sample Size, Design Description, and Statistics Analysis summaries from the methods and results sections of research articles.
 
 tags:
-- Source Themes
+- Large Language Model
 featured: false
 
 # links:
