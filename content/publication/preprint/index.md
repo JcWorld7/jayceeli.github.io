@@ -1,8 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Fine-Tuning Generative Models for Text Summarization with Limited Data (in progress)"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Zhu Li
+- Ariel Aloe
+- Kishlay Jha
+date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +20,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The rapid increase in scientific publications across disciplines has made it harder for researchers to stay up-to-date with the latest literature. They often spend hours skimming through papers just to find key information or determine whether a study is relevant to their needs. This study introduces a practical method for fine-tuning pretrained generative language models to automatically generate structured summaries from scientific articles. This helps researchers not only find relevant content more quickly but also understand study details more effectively. Using the PICO (Population, Intervention, Comparison, Outcome) framework and including elements like Sample Size, Design Description, and Statistical Analysis as a case example, we examine how such a model can be fine-tuned on limited, manually annotated data using lightweight methods, such as prompt engineering, hyperparameter tuning, and generative adapters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces a practical method for fine-tuning pretrained generative language models to automatically generate structured summaries from scientific articles.
 
 tags:
 - Large Language Models
