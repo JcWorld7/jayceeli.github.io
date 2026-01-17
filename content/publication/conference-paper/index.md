@@ -38,7 +38,7 @@ abstract: |
 summary: This study examines how combinations of tokenization, stopword removal, and stemming affect the performance of NLP-based text classification models in the context of systematic review automation.
 
 tags:
-  - Large Language Models
+  - Natural Language Processing
 
 # Display this page in the Featured widget?
 featured: true

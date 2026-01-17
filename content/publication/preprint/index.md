@@ -27,7 +27,7 @@ abstract: The rapid increase in scientific publications across disciplines has m
 summary: This study introduces a practical method for fine-tuning pretrained generative language models to automatically generate structured summaries from scientific articles.
 
 tags:
-- Natural Language Processing
+- Large Language Models
 
 featured: true
 
