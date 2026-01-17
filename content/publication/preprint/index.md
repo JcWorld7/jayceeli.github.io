@@ -14,7 +14,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -26,7 +27,7 @@ abstract: The rapid increase in scientific publications across disciplines has m
 summary: This study introduces a practical method for fine-tuning pretrained generative language models to automatically generate structured summaries from scientific articles.
 
 tags:
-- Large Language Models
+- Natural Language Processing
 
 featured: true
 
