@@ -1,5 +1,5 @@
 ---
-title: 'The Effect of Different Text Processing Techniques on Text Classification'
+title: 'The Effect of Different Text Processing Techniques on Text Classification (Under Review)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ abstract: |
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study examines how combinations of tokenization, stopword removal, and stemming affect the performance of NLP-based text classification models in the context of systematic review automation.
 
 tags:
   - Large Language Models
