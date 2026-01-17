@@ -58,6 +58,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  - area: MS Data Science
+    institution: The University of Iowa (USA)
+    date_start: 2025-08-29
+    date_end: 2027-05-31
+    summary: |
+      GPA: 4.0/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MS Educational Technology
     institution: The Johns Hopkins University (USA)
     date_start: 2021-08-29
