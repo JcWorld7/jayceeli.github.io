@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Presentation
 
-event: Hugo Blox Builder Conference
+event: .
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: UIowa
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,12 +12,12 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Integrating Item Response Theory with Large Language Models to Improve the Measurement Quality of Automated Text-Based Assessments.
+abstract: 'Large language models (LLMs) are increasingly used for text classification tasks in educational and psychological research; however, their evaluation is typically limited to aggregate performance metrics that provide little insight into measurement quality at the item level. This study investigates whether Item Response Theory (IRT) can be used to evaluate and calibrate the measurement properties of LLM-based text classification systems. In this framework, individual text instances are treated as items, and LLM classification outcomes are modeled as item responses, allowing estimation of item difficulty and discrimination parameters. Using multiple LLM configurations and benchmark text datasets, we fit dichotomous and ordinal IRT models to examine variability in classification performance attributable to both model ability and item characteristics. Results demonstrate that IRT provides meaningful differentiation among text instances, identifying systematically difficult items and texts that are most informative for distinguishing higher- and lower-performing models. Furthermore, IRT-based calibration improves the interpretability and comparability of LLM performance across datasets and model variants. Findings suggest that IRT offers a principled measurement framework for evaluating LLM-based classification systems, extending beyond accuracy-based evaluation toward validity, fairness, and interpretability in automated text analysis.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2025-06-01T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
