@@ -33,7 +33,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/jaycee_lee11/
+    url: https://www.instagram.com/jaycee_lii/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Jaycee is a PhD student in Statistics and Educational Measurement at The University of Iowa. His research interests include Natural Language Processing (NLP), data processing, and programmable matter. He explores the impact of text preprocessing techniques on NLP classification models and has trained models using Long Short-Term Memory (LSTM) networks. By leveraging LSTM's capability to capture and retain sequential patterns and dependencies within textual data, his work aims to enhance the effectiveness of NLP models.
+Jaycee is a Ph.D. student in Statistics and Educational Measurement at the University of Iowa, where he also serves as a Graduate Research Assistant. His research lies at the intersection of large language models (LLMs), educational measurement, and statistical modeling, with a particular emphasis on applying transformer-based models and advanced text preprocessing techniques to educational and psychological data. He is currently affiliated with the Iowa Testing Program and the Center for Advanced Studies in Measurement and Assessment, where he contributes to the development and evaluation of large-scale assessment systems, including the Iowa Statewide Assessment of Student Progress (ISASP).
