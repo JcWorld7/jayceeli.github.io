@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+# publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: PICO extraction is an essential task for understanding the rapidly expanding research literature. This study suggests methods to fine-tune pretrained extractive language models to automatically extract structured PICO (Population, Intervention, Comparison, Outcome), Sample Size, Design Description, and Statistics Analysis summaries from the methods and results sections of research articles. Using case examples in school mental health, we aim to evaluate how well such a model performs when fine-tuned on a limited, manually annotated dataset with lightweight fine-tuning techniques, such as training hyperparameter setups and discriminative adapters. Additionally, we compare the performance of fine-tuning different pre-trained models on PICO extraction tasks.
