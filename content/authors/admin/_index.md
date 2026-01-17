@@ -44,9 +44,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Natural Language Processing
-  - Data Processing
-  - Generative Transformers
+  - Large Language Models for Educational and Psychological Measurement
+  - Natural Language Processing for Scientific Text Analysis
+  - Statistical Modeling and Methodological Evaluation
 
 education:
   - area: PhD Statistics and Educational Measurement
