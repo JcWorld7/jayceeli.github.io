@@ -53,67 +53,80 @@ education:
     institution: The University of Iowa (USA)
     date_start: 2023-09-01
     date_end: 2028-05-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Data Science
     institution: The University of Iowa (USA)
     date_start: 2025-08-29
     date_end: 2027-05-31
-    summary: |
-      GPA: 4.0/4.0
+    # summary: |
+    #   GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MS Educational Technology
     institution: The Johns Hopkins University (USA)
     date_start: 2021-08-29
     date_end: 2022-08-31
-    summary: |
-      GPA: 3.97/4.0
+    # summary: |
+    #   GPA: 3.97/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Management
     institution: Dongbei University of Finance and Economics (China)
     date_start: 2011-09-01
     date_end: 2015-06-30
-    summary: |
-      GPA: 3.57/4.0
+    # summary: |
+    #   GPA: 3.57/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: The University of Iowa Iowa Testing Program
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Assist in developing the Iowa Statewide Assessment of Student Progress (ISASP), which is the annual spring assessment used by all schools in the state of Iowa.
+      - Conduct research on new testing initiatives and develop new approaches to assessment and reporting on student achievement.
+    
+  - position: Research Assistant
+    company_name: The University of Iowa Center for Advanced Studies in Measurement and Assessment
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyze the effects of different preprocessing techniques on NLP classification models.
+      - Focus on exploring the application of transformer models and neural networks in natural
+      language processing.
+  
+  - position: Research Assistant
+    company_name: The Johns Hopkins University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-12-01
+    date_end: 2022-07-25
+    summary: |
+      Responsibilities include:
+      - Support the technical team in providing students with materials in alternative formats that are academically convenient.
+      - Assist professors in teaching and preparing materials for students using assistive technologies, including Kurzweil 3000, Glean, Dragon Naturally Speaking.
+
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
